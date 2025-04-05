@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos2</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>B90012</corbanda>
+        <cornavega>B90012</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>SOLIDOS DE REVOLUCION GEOMETRIA</titulo>
+        <autor>Lic. Francis Aragón</autor>
+        <logo>logo.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="tada-fanfare-a-6313_(1).mp3" modo="1" >Muy bien, Felicitaciones¡¡</correcto>
+        <incorrecto son="error-call-to-attention-129258.mp3" modo="1" >Sigue intentando lo vas a lograr</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva1.JPG</imaxe>
+              <son>pleasant-atmosphere-153275.mp3</son>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-3">Diapositiva2.JPG</imaxe>
+              <son>pleasant-atmosphere-153275.mp3</son>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Bienvenido.jpg</imaxe>
+              <texto posx="258" posy="138" ancho="477" largo="371"><![CDATA[<font size="12"><center<hr><iframe width="560" height="315" src="https://www.youtube.com/embed/kD5gz2k5IZQ?si=RxILS_3C5lvuifB2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><center<hr></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <son>pleasant-atmosphere-153275.mp3</son>
+              <peza imaxe="rectangulo.png" texto="¿cual solido se forma al hacer revolucion?" son="">cylinder.gif</peza>
+              <peza imaxe="cone.jpg" texto="¿que figura genera este solido?" son="">Triangle.png</peza>
+              <peza imaxe="semicirculo.png" texto="¿como se llama la generatriz de este solido?" son="">semic_irculo.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>15</tipo>
+              <cfondo>84E1FD</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Tipos De Solidos"><![CDATA[<font size="12"><center><iframe allow="fullscreen; autoplay;" allowfullscreen width="685" height="315" frameborder="0" src="https://www.educaplay.com/game/1052705-solidos_de_revolucion.html"></iframe><center></font>]]></menu>
+              <menu boton="Actividad"><![CDATA[<font size="12"><center><iframe allow="fullscreen; autoplay;" allowfullscreen width="750" height="450" frameborder="0" src="https://es.educaplay.com/juego/5521562-solidos_de_revolucion_3_a_b_c.html"></iframe><center></font>]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">utilidad_de_los_solidos.jpg</imaxe>
+              <son>pleasant-atmosphere-153275.mp3</son>
+              <texto posx="180" posy="-18" ancho="411" largo="66"><![CDATA[
+<p align="left">
+<font color="#080000" face="Sitka" size="16"><b><i>La utilidad de solidos de Revolucion en nuestro entorno</i></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <texto posx="272" posy="145" ancho="469" largo="352"><![CDATA[<font size="12"><center><iframe width="560" height="315" src="https://www.youtube.com/embed/5fiqc2Smq_c?si=eqocwnYHkIhashkF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><center></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>31</tipo>
+              <son>pleasant-atmosphere-153275.mp3</son>
+              <valor texto="pague 980000 en solidos de revolucion">980000</valor>
+              <etiqueta imaxe="cone.jpg" texto="cono">110000</etiqueta>
+              <etiqueta imaxe="dos_conos.jpg" texto="dos conos">30000</etiqueta>
+              <etiqueta imaxe="cylinder.gif" texto="cilindro">150000</etiqueta>
+              <etiqueta imaxe="esfera.jpg" texto="esfera">90000</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>29</tipo>
+              <son>pleasant-atmosphere-153275.mp3</son>
+              <texto><![CDATA[VAMOS A REPASAR UN MINUTOS LAS MULTIPLICACIONES]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>0</modo>
+              <forma>24</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>26</tipo>
+              <son auto="1">pleasant-atmosphere-153275.mp3</son>
+              <modo>0</modo>
+              <forma>x</forma>
+              <numero>128</numero>
+              <numero>12</numero>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+              <imaxe>imagen_para_armar.jpg</imaxe>
+              <son>pleasant-atmosphere-153275.mp3</son>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>39</tipo>
+              <son>pleasant-atmosphere-153275.mp3</son>
+              <modo>1</modo>
+            <parellas imaxe="semicirculo.png" texto="">esfera.jpg</parellas>
+              <parellas imaxe="Triangle.png" texto="">cone.jpg</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-03-29_111615.png" texto="">Captura_de_pantalla_2025-03-29_111615.png</parellas>
+              <parellas imaxe="cylinder.gif" texto="">rectangulo.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-03-29_111708.png" texto="">Captura_de_pantalla_2025-03-29_111646.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-03-29_111930.png" texto="">Captura_de_pantalla_2025-03-29_111911.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>90</tempo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>4</tipo>
+              <son>pleasant-atmosphere-153275.mp3</son>
+              <modo>1</modo>
+              <sopa enun="forma el solido">generatriz</sopa>
+              <sopa enun="esta figura es comun por sus tres vertic">triangulo</sopa>
+              <sopa enun="tiene dos lados paralelos">rectangulo</sopa>
+              <sopa enun="a veces la luna se parece a el">semicirculo</sopa>
+              <sopa enun="accion que se genera al girar el eje">revolucion</sopa>
+              <sopa enun=" # de solidos de revolucion mas comunes">tres</sopa>
+              <sopa enun="formada por el circulo">esfera</sopa>
+              <sopa enun="parece un cono medio">conotruncad</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>abcfgacbrloidamze</fondo>
+        </paxina>
+    </libro>
+</lim>
